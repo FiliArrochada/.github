@@ -1,0 +1,13 @@
+# Org-wide default: GitHub shows this Sponsor button on every FiliArrochada repo that has no
+# .github/FUNDING.yml of its own. Repos owned by other accounts need their own copy.
+# GitHub renders the platforms in its own fixed order; the free-first order lives on the support page.
+
+github: [FiliArrochada]            # live once the Sponsors profile is approved
+ko_fi: filiarrochada
+liberapay: FiliArrochada
+buy_me_a_coffee: filiarrochada
+thanks_dev: e/gh/filiarrochada    # GitHub links this as thanks.dev/<value>; check after the first push
+custom:
+  - https://paypal.me/FiliArrochada
+  - https://filiarrochada.itch.io/
+  - https://filiarrochada.github.io/support/
