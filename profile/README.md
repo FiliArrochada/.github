@@ -15,11 +15,21 @@ Mostly C# and Avalonia. Free to use.
 
 ## 🧩 Projects
 
+#### 🧰 Themes and tools
+
 | | Project | What it is |
 |:-:|---|---|
-| 📚 | **[Fili.MangaReader](https://github.com/FiliArrochada/Fili.MangaReader)** | Manga and comic reader for desktop and mobile |
 | 🎨 | **[Fili.Theme.MudAvalonia](https://github.com/FiliArrochada/Fili.Theme.MudAvalonia)**<br>[![NuGet](https://img.shields.io/nuget/v/Fili.MudAvalonia.Theme?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/Fili.MudAvalonia.Theme) | MudBlazor-style design-token theme for Avalonia: light, dark and high contrast |
 | 🖌️ | **[Fili.Theme.VSCode2026](https://github.com/FiliArrochada/Fili.Theme.VSCode2026)**<br>[![VS Marketplace](https://img.shields.io/badge/VS_Marketplace-install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FiliArrochada.fili-vscode2026) [![Open VSX](https://img.shields.io/open-vsx/v/FiliArrochada/fili-vscode2026?style=flat-square&label=Open%20VSX&color=A60EE5)](https://open-vsx.org/extension/FiliArrochada/fili-vscode2026) | Colour themes for VS Code |
+| 📋 | **[Fili.ReadyTemplate](https://github.com/FiliArrochada/Fili.ReadyTemplate)**<br>[![Website](https://img.shields.io/badge/website-open-2E7D32?style=flat-square&logo=githubpages&logoColor=white)](https://filiarrochada.github.io/Fili.ReadyTemplate/) | The ReadySET software-engineering document templates, modernised and in more than one language |
+
+#### 📦 .NET libraries for web APIs
+
+| | Project | What it is |
+|:-:|---|---|
+| 💰 | **[FireflyIII.Net](https://github.com/FiliArrochada/FireflyIII.Net)**<br>[![NuGet](https://img.shields.io/nuget/v/FireflyIIINet?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/FireflyIIINet) | Client for the [Firefly III](https://www.firefly-iii.org/) personal finance API, one package per API version |
+| 📖 | **[MangaDex.NET](https://github.com/FiliArrochada/MangaDex.NET)**<br>[![NuGet](https://img.shields.io/nuget/v/MangaDex?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/MangaDex) | Client for the [MangaDex](https://mangadex.org/) API |
+| 🔔 | **[MangaUpdates.NET](https://github.com/FiliArrochada/MangaUpdates.NET)**<br>[![NuGet](https://img.shields.io/nuget/v/MangaUpdates?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/MangaUpdates) | Client for the [MangaUpdates](https://www.mangaupdates.com/) API |
 
 > [!NOTE]
 > 🚧 More apps are on the way.
