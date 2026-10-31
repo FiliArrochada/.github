@@ -1,13 +1,13 @@
 <div align="center">
 
+**English** · [Português](https://github.com/FiliArrochada/.github/blob/main/profile/README.pt-PT.md) · [Français](https://github.com/FiliArrochada/.github/blob/main/profile/README.fr.md) · [Italiano](https://github.com/FiliArrochada/.github/blob/main/profile/README.it.md)
+
 # 🇵🇹 FiliArrochada
 
-**Small, independent apps, libraries and extensions, made in Portugal.**<br>
-Mostly C# and Avalonia. Free to use.
+**Small, independent .NET libraries, themes and tools, made in Portugal.**<br>
+Free and open source. The first Fili apps are on the way.
 
-[![Support Fili](https://img.shields.io/badge/%F0%9F%92%96_Support_Fili-ways_to_help-B4462F?style=for-the-badge)](https://filiarrochada.github.io/support/)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/FiliArrochada)
-[![Ko-fi](https://img.shields.io/badge/Tip-Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/filiarrochada)
+[![Support Fili: ways to help](https://img.shields.io/badge/%F0%9F%92%96_Support_Fili-ways_to_help-B4462F?style=for-the-badge)](https://filiarrochada.github.io/support/)
 
 </div>
 
@@ -15,57 +15,42 @@ Mostly C# and Avalonia. Free to use.
 
 ## 🧩 Projects
 
-#### 🧰 Themes and tools
+### 🧰 Themes and tools
 
-| | Project | What it is |
-|:-:|---|---|
-| 🎨 | **[Fili.Theme.MudAvalonia](https://github.com/FiliArrochada/Fili.Theme.MudAvalonia)**<br>[![NuGet](https://img.shields.io/nuget/v/Fili.MudAvalonia.Theme?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/Fili.MudAvalonia.Theme) | MudBlazor-style design-token theme for Avalonia: light, dark and high contrast |
-| 🖌️ | **[Fili.Theme.VSCode2026](https://github.com/FiliArrochada/Fili.Theme.VSCode2026)**<br>[![VS Marketplace](https://img.shields.io/badge/VS_Marketplace-install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FiliArrochada.fili-vscode2026) [![Open VSX](https://img.shields.io/open-vsx/v/FiliArrochada/fili-vscode2026?style=flat-square&label=Open%20VSX&color=A60EE5)](https://open-vsx.org/extension/FiliArrochada/fili-vscode2026) | Colour themes for VS Code |
-| 📋 | **[Fili.ReadyTemplate](https://github.com/FiliArrochada/Fili.ReadyTemplate)**<br>[![Website](https://img.shields.io/badge/website-open-2E7D32?style=flat-square&logo=githubpages&logoColor=white)](https://filiarrochada.github.io/Fili.ReadyTemplate/) | The ReadySET software-engineering document templates, modernised and in more than one language |
+| Project | What it is |
+|---|---|
+| 🎨 **[Fili.Theme.MudAvalonia](https://github.com/FiliArrochada/Fili.Theme.MudAvalonia)**<br>[![NuGet package Fili.MudAvalonia.Theme, latest version](https://img.shields.io/nuget/v/Fili.MudAvalonia.Theme?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/Fili.MudAvalonia.Theme) [![NuGet downloads of Fili.MudAvalonia.Theme](https://img.shields.io/nuget/dt/Fili.MudAvalonia.Theme?style=flat-square&label=downloads&color=004880)](https://www.nuget.org/packages/Fili.MudAvalonia.Theme) [![Fili.Theme.MudAvalonia documentation site](https://img.shields.io/badge/docs-open-2E7D32?style=flat-square&logo=githubpages&logoColor=white)](https://filiarrochada.github.io/Fili.Theme.MudAvalonia/) | MudBlazor-style design tokens for Avalonia 12: light, dark and high contrast |
+| 🖌️ **[Fili.Theme.VSCode2026](https://github.com/FiliArrochada/Fili.Theme.VSCode2026)**<br>[![Install from the VS Marketplace](https://img.shields.io/badge/VS_Marketplace-install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=FiliArrochada.fili-vscode2026) [![Open VSX, latest version](https://img.shields.io/open-vsx/v/FiliArrochada/fili-vscode2026?style=flat-square&label=Open%20VSX&color=A60EE5)](https://open-vsx.org/extension/FiliArrochada/fili-vscode2026) | The Visual Studio 2026 look for VS Code: colour and icon themes |
+| 📋 **[Fili.ReadyTemplate](https://github.com/FiliArrochada/Fili.ReadyTemplate)**<br>[![Fili.ReadyTemplate website](https://img.shields.io/badge/website-open-2E7D32?style=flat-square&logo=githubpages&logoColor=white)](https://filiarrochada.github.io/Fili.ReadyTemplate/) | The ReadySET software-engineering document templates, modernised and localised |
 
-#### 📦 .NET libraries for web APIs
+### 📦 .NET libraries for web APIs
 
-| | Project | What it is |
-|:-:|---|---|
-| 💰 | **[FireflyIII.Net](https://github.com/FiliArrochada/FireflyIII.Net)**<br>[![NuGet](https://img.shields.io/nuget/v/FireflyIIINet?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/FireflyIIINet) | Client for the [Firefly III](https://www.firefly-iii.org/) personal finance API, one package per API version |
-| 📖 | **[MangaDex.NET](https://github.com/FiliArrochada/MangaDex.NET)**<br>[![NuGet](https://img.shields.io/nuget/v/MangaDex?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/MangaDex) | Client for the [MangaDex](https://mangadex.org/) API |
-| 🔔 | **[MangaUpdates.NET](https://github.com/FiliArrochada/MangaUpdates.NET)**<br>[![NuGet](https://img.shields.io/nuget/v/MangaUpdates?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/MangaUpdates) | Client for the [MangaUpdates](https://www.mangaupdates.com/) API |
+| Project | What it is |
+|---|---|
+| 💰 **[FireflyIII.Net](https://github.com/FiliArrochada/FireflyIII.Net)**<br>[![NuGet package FireflyIIINet, latest version](https://img.shields.io/nuget/v/FireflyIIINet?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/FireflyIIINet) [![NuGet downloads of FireflyIIINet](https://img.shields.io/nuget/dt/FireflyIIINet?style=flat-square&label=downloads&color=004880)](https://www.nuget.org/packages/FireflyIIINet) | Typed client for the [Firefly III](https://www.firefly-iii.org/) personal finance API, one package per API version |
+| 📖 **[MangaDex.NET](https://github.com/FiliArrochada/MangaDex.NET)**<br>[![NuGet package MangaDex, latest version](https://img.shields.io/nuget/v/MangaDex?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/MangaDex) | Client for the [MangaDex](https://mangadex.org/) API |
+| 🔔 **[MangaUpdates.NET](https://github.com/FiliArrochada/MangaUpdates.NET)**<br>[![NuGet package MangaUpdates, latest version](https://img.shields.io/nuget/v/MangaUpdates?style=flat-square&logo=nuget&label=NuGet&color=004880)](https://www.nuget.org/packages/MangaUpdates) | Client for the [MangaUpdates](https://www.mangaupdates.com/) API |
+| 🎮 **[Gog.NET](https://github.com/FiliArrochada/Gog.NET)** | Client for the public [GOG.com](https://www.gog.com/) APIs: box art and products |
 
 > [!NOTE]
-> 🚧 More apps are on the way.
+> 🚧 The first Fili apps are on the way.
 
 ---
 
 ## 💖 Support Fili
 
-Fili apps are free. If one is useful to you, you can help keep them going.
+Everything here is free. If a library or theme saved you time, support pays for keeping it maintained.
+**[Ways to support →](https://filiarrochada.github.io/support/)**
+([Ko-fi](https://ko-fi.com/filiarrochada) · [Liberapay](https://liberapay.com/FiliArrochada/) ·
+[PayPal](https://paypal.me/FiliArrochada) · [Buy Me a Coffee](https://buymeacoffee.com/filiarrochada))
 
-#### 🆓 No fees: reaches FiliArrochada in full
-
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-monthly_or_one--off-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/FiliArrochada)
-[![Bank transfer](https://img.shields.io/badge/%F0%9F%8F%A6_Bank_transfer-SEPA-2E7D32?style=for-the-badge)](https://filiarrochada.github.io/support/#bank)
-[![MB WAY](https://img.shields.io/badge/%F0%9F%93%B1_MB_WAY-Portugal-D60510?style=for-the-badge)](https://filiarrochada.github.io/support/#mbway)
-
-#### 💳 Small processing fee
-
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-tip-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/filiarrochada)
-[![Liberapay](https://img.shields.io/badge/Liberapay-recurring-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)](https://liberapay.com/FiliArrochada/)
-[![itch.io](https://img.shields.io/badge/itch.io-pay_what_you_want-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://filiarrochada.itch.io/)
-[![PayPal](https://img.shields.io/badge/PayPal-one--off-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/FiliArrochada)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-tip-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/filiarrochada)
-
-> [!TIP]
-> 🔓 Supporters get **ad removal** and other perks in apps that offer them.
-> The [support page](https://filiarrochada.github.io/support/) explains how to unlock them.
-
-🏢 **Using Fili's libraries at work?**
-[![thanks.dev](https://img.shields.io/badge/thanks.dev-fund_your_dependencies-24292F?style=flat-square)](https://thanks.dev/e/gh/filiarrochada/)
-lets a company fund the open-source projects it depends on.
+🏢 **Using these libraries at work?** [thanks.dev](https://thanks.dev/e/gh/filiarrochada/) lets a company
+fund the open-source projects it depends on.
 
 ---
 
 <div align="center">
 
-🐛 Found a bug? Open an issue on the project · ⭐ Like something? Give it a star
+Open source · 🐛 Found a bug? Open an issue in that project's repo · ⭐ Like something? Star it
 
 </div>
